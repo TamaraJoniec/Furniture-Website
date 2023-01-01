@@ -7,7 +7,7 @@ In this activity, I will use CSS Grid to re-create the design of an online furni
 ## Installation
 
 Website URL:
-https://tamarajoniec.github.io.furniture-website
+https://tamarajoniec.github.io/Furniture-Website/
 
 ![Screenshot of website.](images/screencapture.jpg "The Furniture webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. There is an about me section and contact details.")    
 
