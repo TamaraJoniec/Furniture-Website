@@ -147,6 +147,7 @@ body {
 
 
 /* Navigation CSS */
+
 #navBar {
   display: flex;
   flex-direction: row;
@@ -208,4 +209,10 @@ h4 {
   font-weight: 300;
   margin: 0px 0px;
   color: #636364;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  #navigation {
+    display: none;
+  }
 }
